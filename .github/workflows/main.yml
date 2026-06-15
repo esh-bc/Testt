@@ -1,4 +1,4 @@
-name: YukiBot Live
+name: YukiBot Livee
 
 on:
   workflow_dispatch:  # Start manually from GitHub Actions tab
